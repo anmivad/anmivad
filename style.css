@@ -88,6 +88,10 @@ p {
     color: #777;
 }
 
+.about-info p {
+    color: #000;
+}
+
 section {
     margin: 50px 20px;
 }
@@ -118,4 +122,5 @@ section li p {
 
 section p {
     margin: 20px 0;
+    color: #777;
 }
